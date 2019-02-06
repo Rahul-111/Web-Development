@@ -1,0 +1,37 @@
+html{
+    height: 100%;
+}
+body{
+    background: url("../images/progimg.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: catamaran;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+.center{
+    text-align: center;
+    padding-top: 10%;
+}    
+#login{
+    min-width: 250px;
+    background-color: rgba(255,255,255,0.7);
+/*    padding: 50px 50px 0;*/
+/*    overflow: hidden;*/
+}
+#login .social-button{
+    margin: 12px 0;
+}
+.btn-fb:hover{
+    color:#fff;
+    background-color: #496ebc;
+}
+.btn-tw{
+    color:#fff;
+    background-color: #55acee;
+}
+h1,p{
+    color:black;
+}
